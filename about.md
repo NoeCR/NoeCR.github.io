@@ -20,4 +20,4 @@ Thanks to platforms such as GitHub and its large community of developers, this n
 </div> -->
 ### Contact me
 
-[ghborras@gmail.com](mailto:noecr.dev@gmail.com)
+[noecr.dev@gmail.com](mailto:noecr.dev@gmail.com)
